@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\TOM\Desktop\App2\bagaStudio\src\main\assets"><file name="com.oem.barcode.sdk.jar" path="C:\Users\TOM\Desktop\App2\bagaStudio\src\main\assets\com.oem.barcode.sdk.jar"/></source><source path="C:\Users\TOM\Desktop\App2\bagaStudio\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\TOM\Desktop\App2\bagaStudio\src\release\assets"/></dataSet></merger>

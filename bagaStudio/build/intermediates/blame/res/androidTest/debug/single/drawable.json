@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\arrow.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\hct_logo.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\hct_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\account_textfield.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\account_textfield.png"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_black_border.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\button_black_border.png"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\password_edit_text_holo_light.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\password_edit_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\account_edit_text_holo_light.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\account_edit_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\company_edit_text_holo_light.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\company_edit_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\password_textfield.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\password_textfield.png"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\company_textfield.png",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\bagaStudio\\build\\intermediates\\bundles\\debug\\res\\drawable\\company_textfield.png"
+    }
+]

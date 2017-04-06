@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/App2.iml" filepath="$PROJECT_DIR$/App2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bagaStudio/bagaStudio.iml" filepath="$PROJECT_DIR$/bagaStudio/bagaStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/太平洋_撿貨App/太平洋_撿貨App.iml" filepath="$PROJECT_DIR$/太平洋_撿貨App/太平洋_撿貨App.iml" />
+    </modules>
+  </component>
+</project>

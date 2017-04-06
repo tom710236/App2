@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ecbb217df721889202753fc93f14c8a24d4f7de">
+        <dex dex="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c3453b6dd6e61abb6f3efc60769f5b943ea70895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\libs\com.oem.barcode.sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08c016a6f3354cc2133002db827d5174a1efcf43">
+        <dex dex="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\transforms\dex\debug\folders\1000\2\com.oem.barcode.sdk_3578d8543df9ad84e22fea63a6d3c675ad944330\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\libs\bagastudio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a338aa04a06f5cf2a66fdfa066f5c373ab45235">
+        <dex dex="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\pre-dexed\debug\bagastudio_1be6b24c0bcee6c7b3cecee9c726f05c9452fead.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c159ed89762701a34f016049e347cfb2292a3358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\libs\bagastudio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a338aa04a06f5cf2a66fdfa066f5c373ab45235">
+        <dex dex="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\transforms\dex\debug\folders\1000\2\bagastudio_1be6b24c0bcee6c7b3cecee9c726f05c9452fead\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\libs\com.oem.barcode.sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08c016a6f3354cc2133002db827d5174a1efcf43">
+        <dex dex="C:\Users\TOM\Desktop\App2\太平洋_撿貨App\build\intermediates\pre-dexed\debug\com.oem.barcode.sdk_3578d8543df9ad84e22fea63a6d3c675ad944330.jar" />
+    </item>
+
+</items>

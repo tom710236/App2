@@ -1,0 +1,16 @@
+#Thu Apr 06 19:07:56 CST 2017
+renamed.4=classes2.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes5.dex
+base.4=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_6f6cf5fe7648474c42fb77c6c5bfb9780b337d81
+renamed.0=classes.dex
+base.3=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\bagastudio_1be6b24c0bcee6c7b3cecee9c726f05c9452fead
+base.2=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_6a1aaf4e7ebe0579c9d3e400ec03c91047d66a8c
+base.1=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\com.oem.barcode.sdk_3578d8543df9ad84e22fea63a6d3c675ad944330
+base.0=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19c7f9067bfd27ddd1f3da297208ef928c07ec98
+file.4=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_6f6cf5fe7648474c42fb77c6c5bfb9780b337d81\\classes.dex
+file.3=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\bagastudio_1be6b24c0bcee6c7b3cecee9c726f05c9452fead\\classes.dex
+file.2=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_6a1aaf4e7ebe0579c9d3e400ec03c91047d66a8c\\classes.dex
+file.1=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\com.oem.barcode.sdk_3578d8543df9ad84e22fea63a6d3c675ad944330\\classes.dex
+file.0=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_19c7f9067bfd27ddd1f3da297208ef928c07ec98\\classes.dex

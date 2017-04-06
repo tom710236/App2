@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_productitem.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\listrow_productitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_shipment.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\listrow_shipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipment_list.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\activity_shipment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_product.xml",
+        "source": "C:\\Users\\TOM\\Desktop\\App2\\太平洋_撿貨App\\src\\main\\res\\layout\\listrow_product.xml"
+    }
+]
