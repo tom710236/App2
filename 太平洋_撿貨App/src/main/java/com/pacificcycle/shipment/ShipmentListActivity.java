@@ -1,19 +1,6 @@
 package com.pacificcycle.shipment;
 
-import java.util.ArrayList;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import com.bagastudio.backgroundservice.HttpRequestTask;
-import com.example.barcodereaderintentreceiver.R;
-import com.pacificcycle.data.Shipment;
-import com.pacificcycle.listadapter.ShipmentListAdapter;
-
 import android.app.Activity;
-import android.app.AlertDialog;
-import android.app.AlertDialog.Builder;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
@@ -28,6 +15,17 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.bagastudio.backgroundservice.HttpRequestTask;
+import com.example.barcodereaderintentreceiver.R;
+import com.pacificcycle.data.Shipment;
+import com.pacificcycle.listadapter.ShipmentListAdapter;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
 
 public class ShipmentListActivity extends Activity
 {
@@ -160,7 +158,7 @@ public class ShipmentListActivity extends Activity
 
                         Toast toast = Toast.makeText(ShipmentListActivity.this, message, Toast.LENGTH_SHORT);
                         toast.setGravity(Gravity.TOP, 0, 0);
-                        toast.show();      
+                        toast.show();
                     }
                 }
                 catch (JSONException e)

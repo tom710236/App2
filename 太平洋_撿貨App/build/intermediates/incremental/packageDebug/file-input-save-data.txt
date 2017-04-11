@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Thu Apr 06 19:07:59 CST 2017
+#Mon Apr 10 17:57:47 CST 2017
 20.set=ANDROID_RESOURCE
 19.set=ANDROID_RESOURCE
 8.set=ANDROID_RESOURCE
 1.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
-1.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_shipment_list.xml
+1.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_launcher.png
 3.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg05.png
 3.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 15.set=ANDROID_RESOURCE
@@ -17,17 +17,17 @@
 11.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 9.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 9.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_product_list.xml
-13.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\page_bg.png
+13.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_login.xml
 13.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 11.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-15.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_login.xml
+15.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\page_bg.png
 15.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 18.set=DEX
 17.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listrow_shipment.xml
 17.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 7.set=DEX
-19.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_product_detail.xml
+19.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listrow_productitem.xml
 19.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 14.set=ANDROID_RESOURCE
 3.set=ANDROID_RESOURCE
@@ -36,7 +36,7 @@
 0.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listrow_product.xml
 17.set=ANDROID_RESOURCE
 6.set=ANDROID_RESOURCE
-2.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ic_launcher.png
+2.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_shipment_list.xml
 2.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 4.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 4.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
@@ -48,7 +48,7 @@
 8.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 8.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\logo_b.png
 2.set=ANDROID_RESOURCE
-20.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listrow_productitem.xml
+20.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_product_detail.xml
 20.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_
 12.file=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\artists_list_backgroundcolor.xml
 12.base=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\res\\resources-debug.ap_

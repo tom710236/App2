@@ -1,10 +1,5 @@
 package com.pacificcycle.listadapter;
 
-import java.util.ArrayList;
-
-import com.example.barcodereaderintentreceiver.R;
-import com.pacificcycle.data.Shipment;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +8,11 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.barcodereaderintentreceiver.R;
+import com.pacificcycle.data.Shipment;
+
+import java.util.ArrayList;
 
 public class ShipmentListAdapter extends ArrayAdapter<Shipment>
 {

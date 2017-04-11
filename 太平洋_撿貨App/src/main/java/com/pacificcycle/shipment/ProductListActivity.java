@@ -1,24 +1,12 @@
 package com.pacificcycle.shipment;
 
-import java.util.ArrayList;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import com.bagastudio.backgroundservice.HttpRequestTask;
-import com.example.barcodereaderintentreceiver.R;
-import com.oem.barcode.BCRIntents;
-import com.pacificcycle.data.Product;
-import com.pacificcycle.listadapter.ProductListAdapter;
-
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.app.AlertDialog.Builder;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.View;
@@ -34,6 +22,18 @@ import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.bagastudio.backgroundservice.HttpRequestTask;
+import com.example.barcodereaderintentreceiver.R;
+import com.oem.barcode.BCRIntents;
+import com.pacificcycle.data.Product;
+import com.pacificcycle.listadapter.ProductListAdapter;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
 
 public class ProductListActivity extends Activity
 {
@@ -81,10 +81,19 @@ public class ProductListActivity extends Activity
                     if (jsonObject.has("Message"))
                     {
                         CharSequence message = jsonObject.getString("Message");
+                        Log.e("MESSAGE", String.valueOf(message));
+                        //如果Message回傳值為 StockCompanyNull 跳出提示 請確認該產品是否入庫
+                        if(String.valueOf(message).equals("StockCompanyNull")){
+                            Toast toast = Toast.makeText(ProductListActivity.this, "產品編號未入庫", Toast.LENGTH_SHORT);
+                            toast.setGravity(Gravity.TOP, 0, 0);
+                            toast.show();
+                            return;
+                        }else{
+                            Toast toast = Toast.makeText(ProductListActivity.this, message, Toast.LENGTH_SHORT);
+                            toast.setGravity(Gravity.TOP, 0, 0);
+                            toast.show();
+                        }
 
-                        Toast toast = Toast.makeText(ProductListActivity.this, message, Toast.LENGTH_SHORT);
-                        toast.setGravity(Gravity.TOP, 0, 0);
-                        toast.show();
                     }
                 }
                 catch (JSONException e)
@@ -271,7 +280,8 @@ public class ProductListActivity extends Activity
                 @Override public void onClick(View arg0)
                 {
                     String code = editTextProductNo.getText().toString();
-                    if (code.startsWith("http://") && (code.lastIndexOf("n=") > 0))
+                    //把HTTP判斷拿掉
+                    if(code.lastIndexOf("n=") > 0)
                     {
                         code = code.substring(code.lastIndexOf("n=") + 2);
                     }
@@ -302,7 +312,8 @@ public class ProductListActivity extends Activity
                     if ((event.getAction() == KeyEvent.ACTION_DOWN) && (keyCode == KeyEvent.KEYCODE_ENTER))
                     {
                         String code = editTextProductNo.getText().toString();
-                        if (code.startsWith("http://") && (code.lastIndexOf("n=") > 0))
+                        //把HTTP判斷拿掉
+                        if(code.lastIndexOf("n=") > 0)
                         {
                             code = code.substring(code.lastIndexOf("n=") + 2);
                         }
