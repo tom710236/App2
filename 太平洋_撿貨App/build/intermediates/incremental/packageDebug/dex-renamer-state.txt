@@ -1,7 +1,4 @@
-#Mon Apr 10 17:57:47 CST 2017
-base.0=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c159ed89762701a34f016049e347cfb2292a3358
-renamed.1=classes2.dex
+#Wed Apr 12 14:18:17 CST 2017
+base.0=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c3453b6dd6e61abb6f3efc60769f5b943ea70895\\classes.dex
-base.1=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c3453b6dd6e61abb6f3efc60769f5b943ea70895
-file.0=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c159ed89762701a34f016049e347cfb2292a3358\\classes.dex
+file.0=C\:\\Users\\TOM\\Desktop\\App2\\びキ瑅_具砯App\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
